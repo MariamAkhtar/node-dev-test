@@ -1,7 +1,7 @@
 # node-dev-test
 
 This is a simple express.js app for displaying images from flickr.
-[Mocha](http://visionmedia.github.io/mocha/) and
+[Mocha](http://mochajs.org/) and
 [Supertest](https://github.com/visionmedia/supertest) are used for unit and integration testing.
 [Istanbul](http://gotwarlost.github.io/istanbul/) is used for viewing code coverage. Note that this
 app only focuses on server-side JavaScript testing.
